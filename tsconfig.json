@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "declaration": false,
+        "esModuleInterop": true,
+        "strict": true,
+        "strictNullChecks": true,
+        "outDir": "lib",
+        "target": "es2015",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "noImplicitThis": true,
+        "lib": ["es2018"]
+    },
+    "include": ["src"]
+}
+
